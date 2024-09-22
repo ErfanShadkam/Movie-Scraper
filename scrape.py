@@ -58,5 +58,3 @@ list2 = list(set(list1[::-1]))
 print(*list2 , sep='\n')
 # Print all movie links at the end
 print(*movie_links, sep=' || ')
-
-#ggggg
