@@ -23,12 +23,3 @@ A Python script to scrape movie links from the website [f2mex.ir](https://www.f2
    ```bash
    git clone https://github.com/yourusername/moviescraper.git
    cd moviescraper
-
-## Example   
-   ```bash
-   Enter the IMDb rating you want to be higher: 6
-Enter the number of pages that you want to explore: 3
-Movie Title 1
-Movie Title 2
-...
-Movie Title N
